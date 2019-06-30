@@ -1,11 +1,10 @@
 package com.model.controller;
 
 import com.model.domain.entity.Offer;
+import com.model.service.OfferService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import com.model.service.OfferService;
 
-import javax.validation.Valid;
 import java.util.List;
 
 @RestController

@@ -15,11 +15,11 @@ public class OfferController {
     private OfferService offerService;
 
     @RequestMapping(value = "/offer", method = RequestMethod.GET)
-    public List<Offer> getOffers(@PathVariable(value = "offerId") Long offerId) {
+    public List<Offer> getOffers() {
         return (List<Offer>) offerService.getOffers();
     }
 
-    @RequestMapping(value = "/offer", method = RequestMethod.POST)
+    @RequestMapping(value = "/offer/save", method = RequestMethod.POST)
     void addOffer(@RequestBody Offer offer) {
         offerService.addOffer(offer);
     }

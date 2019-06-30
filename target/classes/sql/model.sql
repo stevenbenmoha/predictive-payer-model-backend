@@ -21,5 +21,24 @@ priceProtectionThreshold int,
 priceProtectionLookbackDate Date,
 shareShift int,
 Primary Key(offerId)
-
 );
+
+Select * from Offer;
+
+Insert into Offer values (1,
+'Brand',
+'Commercial',
+'CVS Caremark',
+'2000-12-01',
+'aaa',
+'1 of 1',
+'2020-12-21',
+ '11',
+ 'Cumulative',
+ 'Levemir',
+'10',
+'Prior Authorization',
+ 'FEP',
+'15',
+ '1999-12-01',
+ 'Tier 1 - Generic');

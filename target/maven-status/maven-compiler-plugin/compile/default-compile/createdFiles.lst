@@ -1,0 +1,10 @@
+com/model/controller/OfferController.class
+com/model/exception/GlobalExceptionHandler.class
+com/model/Application.class
+com/model/domain/repository/OfferRepository.class
+com/model/domain/entity/Offer$OfferBuilder.class
+com/model/service/OfferService.class
+com/model/config/SwaggerConfig.class
+com/model/exception/ErrorDetails.class
+com/model/domain/entity/Offer.class
+com/model/exception/ResourceNotFoundException.class

@@ -1,0 +1,9 @@
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/exception/ResourceNotFoundException.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/exception/GlobalExceptionHandler.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/service/OfferService.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/controller/OfferController.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/Application.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/domain/repository/OfferRepository.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/domain/entity/Offer.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/exception/ErrorDetails.java
+/Users/stevenbenmoha/IdeaProjects/payer-model/payer-model/src/main/java/com/model/config/SwaggerConfig.java

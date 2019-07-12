@@ -72,7 +72,7 @@ public class OfferController {
         int[] y = deals.toArray(new int[deals.size()]);
         System.out.println("This is y: " + y);
         LogisticRegression logisticRegression = new LogisticRegression(deals);
-        logisticRegression.loglikelihood();
+        System.out.println(logisticRegression.loglikelihood());
     }
 }
 
